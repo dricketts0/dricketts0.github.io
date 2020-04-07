@@ -1,20 +1,20 @@
 # Site settings
-name: Edwin E. Exemplar
-email: edwin+contactme@someemail.com
+name: Diana Ricketts
+email: dianadricketts@gmail.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
-skills: "Senior Software Engineer in Seattle, WA (Fictitious)"
+keywords: "Software Engineer, JavaScript, HTML, CSS, SQL, Node, Web Development, Full Stack"
+skills: "Junior Software Developer in Fayetteville, AR"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/cgroom/
-  - title: medium
-    url: https://medium.com/@cgroom
+    url: https://www.linkedin.com/in/diana-ricketts-a31a33189
+  - title: github
+    url: https://github.com/dricketts0
   - title: twitter
-    url: https://twitter.com/chuck_groom
+    url: https://twitter.com/DianaRicketts3
     
 # Google webmaster tools
 google_verify:
@@ -24,10 +24,10 @@ bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2196F3
-  primary-rgb: "33, 150, 243"
-  secondary: 285172
-  secondary-dark: 29455b
+  primary: ACE2CE
+  primary-rgb: "172, 226, 206"
+  secondary: 024D3C
+  secondary-dark: 43574F
   section-tout: eaf1f1
 
 
